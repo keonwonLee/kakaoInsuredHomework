@@ -75,3 +75,7 @@ SND_DATA : 카드사 전송 전문데이터
 
 
 ## 4. 빌드 및 실행방법
+
+- Maven clean > install 실행
+- spring boot 내장 톰캣을 이용한 실행
+- post man, Talend API Tester 등을 이용한 API 테스트
