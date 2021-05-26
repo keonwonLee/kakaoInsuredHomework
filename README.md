@@ -9,7 +9,6 @@
 
 ## 2. 테이블 설계
 ![ERD](https://user-images.githubusercontent.com/84861378/119690201-70102980-be84-11eb-8e07-5704db009f44.PNG)
-![데이터](https://user-images.githubusercontent.com/84861378/119691312-6f2bc780-be85-11eb-934c-349e5e4004b0.PNG)
 
 - 필드
 (PK)MANAGE_NUM : 요청별 채번된 관리번호 
@@ -71,5 +70,8 @@ SND_DATA : 카드사 전송 전문데이터
 ```
 {"manageNum":"41620210527010648211","cardNum":"439202***********527","expDt":"0226","cvc":"123","payAmt":9900,"canAmt":100,"vat":1000,"canVat":0,"reqDiv":"CANCEL"}
 ```
+
+![캡처2](https://user-images.githubusercontent.com/84861378/119694392-24f81580-be88-11eb-81ff-f97287329254.PNG)
+
 
 ## 4. 빌드 및 실행방법
